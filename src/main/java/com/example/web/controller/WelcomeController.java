@@ -22,7 +22,7 @@ public class WelcomeController {
     }
 
     private String getMessage() {
-        return "ABCDEFGH";
+        return "ABCDEFGHIJK";
     }
 
 }
